@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC</string>
+    <string name="ali_radwan">Ali Radwan</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="mail">aliradwan7789@gmail.com</string>
+    <string name="phone">Phone:</string>
+    <string name="phone_number">+201062767789</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="my_name">Ali Radwan</string>
+    <string name="egypt">Egypt</string>
+    <string name="welcome">Welcome To ALC 4.0</string>
+    <string name="about">About Alc</string>
+    <string name="my_profile">My Profile</string>
+</resources>
